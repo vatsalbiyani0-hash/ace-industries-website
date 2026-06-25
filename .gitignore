@@ -1,0 +1,12 @@
+# --- Internal / not for public website ---
+Company Profile.pdf
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# --- Temp / OCR working files (if regenerated) ---
+_profile_*
+_ocr.py

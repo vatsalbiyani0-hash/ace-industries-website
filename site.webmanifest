@@ -1,0 +1,17 @@
+{
+  "name": "ACE Industries — Power Distribution & Metering Enclosures",
+  "short_name": "ACE Industries",
+  "description": "ISO 9001 & NSIC certified manufacturer of LT distribution boxes, meter boxes, feeder pillars and tamper-proof metering enclosures.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#003366",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ACE Industries logo">
+  <defs>
+    <linearGradient id="aceBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a4f93"/>
+      <stop offset="1" stop-color="#003366"/>
+    </linearGradient>
+  </defs>
+  <!-- Hex enclosure -->
+  <path d="M32 3 56 16.5v31L32 61 8 47.5v-31z" fill="url(#aceBlue)"/>
+  <path d="M32 3 56 16.5v31L32 61 8 47.5v-31z" fill="none" stroke="#0a4f93" stroke-width="1.2" opacity=".5"/>
+  <!-- Inner enclosure frame -->
+  <path d="M32 11 49 20.5v23L32 53 15 43.5v-23z" fill="none" stroke="#ffffff" stroke-opacity=".22" stroke-width="1.4"/>
+  <!-- Lightning bolt -->
+  <path d="M35.5 17 23 35h7.5l-2.5 12.5L41 28h-7.6z" fill="#ff6b00"/>
+  <!-- Energy node -->
+  <circle cx="32" cy="32" r="2.4" fill="#008a4e" opacity="0"/>
+</svg>

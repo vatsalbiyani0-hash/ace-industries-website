@@ -1,0 +1,6 @@
+# robots.txt — ACE Industries
+User-agent: *
+Allow: /
+Disallow: /assets/og-image.svg
+
+Sitemap: https://www.aceindustries.co/sitemap.xml

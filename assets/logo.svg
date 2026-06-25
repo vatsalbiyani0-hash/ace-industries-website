@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 72" role="img" aria-label="ACE Industries">
+  <defs>
+    <linearGradient id="lBlue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a4f93"/>
+      <stop offset="1" stop-color="#003366"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(4,4)">
+    <path d="M32 0 56 13.5v31L32 58 8 44.5v-31z" fill="url(#lBlue)"/>
+    <path d="M32 8 49 17.5v23L32 50 15 40.5v-23z" fill="none" stroke="#ffffff" stroke-opacity=".22" stroke-width="1.4"/>
+    <path d="M35.5 14 23 32h7.5l-2.5 12.5L41 25h-7.6z" fill="#ff6b00"/>
+  </g>
+  <g transform="translate(78,0)">
+    <text x="0" y="36" font-family="Barlow Semi Condensed, Arial Narrow, sans-serif" font-size="34" font-weight="700" letter-spacing="1" fill="#003366">ACE<tspan fill="#ff6b00"> INDUSTRIES</tspan></text>
+    <text x="2" y="56" font-family="Inter, Arial, sans-serif" font-size="9.5" letter-spacing="3.2" fill="#6a7892">POWER DISTRIBUTION ENCLOSURES</text>
+  </g>
+</svg>
